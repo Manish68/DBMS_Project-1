@@ -1,2 +1,2 @@
 # DBMS_Project
-Website for Film and Media Council, IIT (BHU) Varanasi
+Website for FMC, IIT (BHU) Varanasi
